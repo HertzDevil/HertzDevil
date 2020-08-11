@@ -1,1 +1,1 @@
-![sharenapaining.gif](https://github.com/HertzDevil/HertzDevil/blob/master/sharenapaining.gif)
+![sharenapaining.gif](https://raw.githubusercontent.com/HertzDevil/HertzDevil/master/sharenapaining.gif)
